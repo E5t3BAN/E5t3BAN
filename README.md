@@ -4,7 +4,7 @@
 # Hi, I'm Esteban castro (💻💖☕)   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=E5t3BAN)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=FullStack+Developer;Autonomous+robot+creator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=;Autonomous+robot+creator)](https://git.io/typing-svg)
 
 
 Industrial automation engineer, fullstack developer, robotics enthusiast and open source promoter, mobile robotics and autonomous robots researcher and technopreneur from the Colombia 💻💖☕
