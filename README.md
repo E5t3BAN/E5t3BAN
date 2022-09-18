@@ -9,17 +9,16 @@
 
 automation engineering student , python, robotics and ethical hacking enthusiast,passionate about robotics, I currently belong to the robotics research group of the Jorge Tadeo Lozano University and monitor the programming fundamentals course. 💻🐱‍💻☕😺
 
-🎙 [Recent Tech Talks](https://work.E5t3BAN.com/mrdavidalv/collections/1284) • 📦 [Open Source Updates](https://work.E5t3BAN.com/mrdavidalv/collections/1194)
+🎙 [Recent Tech Talks](https://work.E5t3BAN.com/E5t3BAN/collections/1284) • 📦 [Open Source Updates](https://work.E5t3BAN.com/E5t3BAN/collections/1194)
 
-- 💝 Web application developer
-- 💼 Creator of multiple mobile robots
-- 💼 Developer and creator of electronic circuits
-- 👨‍🔬 Entucuasta and promoter of community work
-- 💞 Member of the Latam Robots community
-- 🔏 currently i like to learn javascript, python and go
-- ☕ Coffee lover, turning it into code, [you can buy me a coffee](https://buymeacoff.ee/mrdavidalv)!
-- 🎯 I like JS frameworks (React⚛ , Vue, Next)
-- 💡 [Learn more about me](https://bio.link/mrdavidalv).
+- 💝 Cybersecurity
+- 🤖 Creator of mobile robots.
+- 🛠️ Developer and creator of electronic circuits.
+- 💻 Robotics developer in Python and ros2.
+- 🧠 currently I like to learn python,sql and UiPath.
+- ☕ Coffee lover, turning it into code, [you can buy me a coffee](https://buymeacoff.ee)!
+- 👨‍💻I like python frameworks(Django,Flask ).
+- 💡 [Learn more about me](https://bio.link).
 
 :hugs::muscle:🤓:seedling:
 I have knowledge in web development👨‍💻, 3d modeling:nazar_amulet:, robotics:robot:, electronics:electric_plug: and systems:computer: 
