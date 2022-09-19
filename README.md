@@ -4,7 +4,7 @@
 # Hi, I'm Esteban castro (💻🐱‍💻☕😺)   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=E5t3BAN)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=1000&lines=python+and+sql;Robotic+Automation+of+Process+Automation+RPA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=1000&lines=python,UiPath+and+sql;Robotic+Automation+of+Process+Automation+RPA)](https://git.io/typing-svg)
 
 
 automation engineering student , python, robotics and ethical hacking enthusiast,passionate about robotics, I currently belong to the robotics research group of the Jorge Tadeo Lozano University and monitor the programming fundamentals course. 💻🐱‍💻☕😺
@@ -16,12 +16,13 @@ automation engineering student , python, robotics and ethical hacking enthusiast
 - 🛠️ Developer and creator of electronic circuits.
 - 💻 Robotics developer in Python and ros2.
 - 🧠 currently I like to learn python,sql and UiPath.
-- ☕ Coffee lover, turning it into code, [you can buy me a coffee](https://buymeacoff.ee)!
+- ☕ Coffee lover, turning it into code, 
 - 👨‍💻I like python frameworks(Django,Flask ).
 
 
-:brain:🧠:dedication:🤓:self-taught:📚:
-I have knowledge in python,sql and UiPath👨💻,ethical hacking:, robotics:, electronics:, and computer systems: 
-passionate about hacking related topics robotics programming (RPA):Tesla:, space exploration: rocket:, robotics:mechanical_arm: , artificial intelligence, :light bulb: gear: and :engineering:science:innovation:
+brain:🧠,dedication:🤓,self-taught:📚.
+I have knowledge in python,sql and UiPath👨💻,ethical hacking,robotics,electronics and computer systems.
+ 
+Passionate about ethical hacking topics,robotics programming (RPA),Tesla: space exploration,rocket,robotics,mechanical_arm , artificial intelligence,light bulb,gear,engineering,science,innovation.
 
-My social networks :briefcase:[Linkedin](https://www.linkedin.com/in/mrdavidalv/ "Linkedin profile"), and 📷[Instagram](https://www.instagram.com/mrdavidalv "Instagram account")
+My social networks :briefcase:[Linkedin](https://www.linkedin.com/in/nelson-esteban-castro-vargas-61b9b5238/ "Linkedin profile"), and 📷[Instagram](https://www.instagram.com/esteban.v09/ "Instagram account")
