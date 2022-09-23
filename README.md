@@ -1,7 +1,7 @@
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hey!+I'm+E5t3BAN;Welcome+to+my+profile!" alt="Title"></img></div>
 
 
-# Hi, I'm Esteban vargas (💻🐱‍💻☕😺)   
+# Hi, I'm Esteban vargas (💻🐱‍💻☕😺)   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=E5t3BAN)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=1000&lines=python,UiPath+and+sql;Robotic+Automation+of+Process+Automation+RPA)](https://git.io/typing-svg)
