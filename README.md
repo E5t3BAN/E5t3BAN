@@ -6,7 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=1000&lines=python,UiPath+and+sql;Robotic+Automation+of+Process+Automation+RPA)](https://git.io/typing-svg)
 
-
 automation engineering student , python, robotics and ethical hacking enthusiast,passionate about robotics, I currently belong to the robotics research group of the Jorge Tadeo Lozano University and monitor the programming fundamentals course. 💻🐱‍💻☕😺
 
 🎙 [Recent Tech Talks](https://work.E5t3BAN.com/E5t3BAN/collections/1284) • 📦 [Open Source Updates](https://work.E5t3BAN.com/E5t3BAN/collections/1194)
