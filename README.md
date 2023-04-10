@@ -4,7 +4,7 @@
 # Hi, I'm Esteban vargas (💻🐱💻☕😺)![visitors](https://visitor-badge.laobi.icu/badge?page_id=E5t3BAN)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=1000&lines=python,UiPath+and+sql;Robotic+Automation+of+Process+Automation+RPA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=1000&lines=python,UiPath,sql+and+power+apps;Robotic+Automation+of+Process+Automation+RPA+and+RDA)](https://git.io/typing-svg)
 
 automation engineering student , python, robotics and ethical hacking enthusiast,passionate about robotics, I currently belong to the robotics research group of the Jorge Tadeo Lozano University and monitor the programming fundamentals course. 💻🐱‍💻☕😺
 
