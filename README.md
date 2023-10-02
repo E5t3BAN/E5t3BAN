@@ -16,7 +16,7 @@ automation engineering student , python, robotics and ethical hacking enthusiast
 - 💻 Robotics developer in Python and ros2.
 - 🧠 currently I like to learn python,sql and UiPath.
 - ☕ Coffee lover, turning it into code, 
-- 👨‍💻I like python frameworks(Django,Flask ).
+- 👨‍💻I like python.
 
 
 brain:🧠,dedication:🤓,self-taught:📚.
