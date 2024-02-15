@@ -6,14 +6,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=1000&lines=python,UiPath,sql+and+power+apps;Robotic+Automation+of+Process+Automation+RPA+and+RDA)](https://git.io/typing-svg)
 
-automation engineering student , python, robotics and ethical hacking enthusiast,passionate about robotics, I currently belong to the robotics research group of the Jorge Tadeo Lozano University and monitor the programming fundamentals course. 💻🐱‍💻☕😺
+I am an engineer in automation, python, robotics and ethical hacking, passionate about robotics, currently I belong to the research group in robotics at the university Jorge Tadeo Lozano and I was monitor of the course of programming fundamentals. 💻🐱‍💻☕😺
 
 🎙 [Recent Tech Talks](https://work.E5t3BAN.com/E5t3BAN/collections/1284) • 📦 [Open Source Updates](https://work.E5t3BAN.com/E5t3BAN/collections/1194)
 
 - 🧑‍💻 Cybersecurity
 - 🤖 Creator of mobile robots.
 - 🛠️ Developer and creator of electronic circuits.
-- 💻 Robotics developer in Python and ros2.
+- 💻 Robotics developer in Python.
 - 🧠 currently I like to learn python,sql and UiPath.
 - ☕ Coffee lover, turning it into code, 
 - 👨‍💻I like python.
